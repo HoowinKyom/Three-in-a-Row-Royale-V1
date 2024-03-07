@@ -1,1 +1,1 @@
-##Three-in-a-Row Royale V1
+#THREE-IN-A-ROW ROYALE V1
