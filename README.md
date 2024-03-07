@@ -5,7 +5,6 @@ Three-in-a-Row Royale is a fun and interactive Tic Tac Toe game with a twist. It
  # FEATURES 🌟
 - Interactive GUI: The game has a graphical user interface that makes it easy to play. Just click on a square to make your move!
 - Smart Computer Player: Don’t have a friend to play with? No problem! The game includes a smart computer player that uses the minimax algorithm to choose its moves. Try to beat it if you can!
-- Winning Line Highlight: When a player wins, the winning line is highlighted in red. This makes it easy to see at a glance how the game was won.
 - Automatic Game Reset: After a game ends, whether it’s a win or a tie, the game automatically resets so you can play again.
 
 # HOW TO PLAY 🌟
@@ -19,7 +18,8 @@ After the game ends, it will automatically reset and you can play again.
 # REQUIREMENTS 🌟
 
 Python 3.6 or higher
-Tkinter
+
+*pip install tkinter*
 
 # INSTALLATION 🌟
 
@@ -29,3 +29,6 @@ Run python main.py to start the game.
 # CONTRIBUTING 🌟
 
 Contributions are welcome! Please read the contributing guidelines before getting started. 😁
+
+# SOON... 🔜
+- Winning Line Highlight: When a player wins, the winning line is highlighted in red. This makes it easy to see how the game was won.
