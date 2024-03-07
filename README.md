@@ -1,4 +1,4 @@
-🔥# *THREE-IN-A-ROW ROYALE V1*🔥
+🔥 # THREE-IN-A-ROW ROYALE V1🔥
 
 Three-in-a-Row Royale is a fun and interactive Tic Tac Toe game with a twist. It’s not just a simple Tic Tac Toe game, it’s a battle royale! The game is played on a 3x3 grid, and the goal is to get three of your marks in a row - horizontally, vertically, or diagonally.
 
