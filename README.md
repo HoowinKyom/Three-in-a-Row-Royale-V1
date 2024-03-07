@@ -32,3 +32,5 @@ Contributions are welcome! Please read the contributing guidelines before gettin
 
 # SOON... 🔜
 - Winning Line Highlight: When a player wins, the winning line is highlighted in red. This makes it easy to see how the game was won.
+- MODES, 2V2S, 3V3S, *ROYALE BATTLE*..
+- External application.
